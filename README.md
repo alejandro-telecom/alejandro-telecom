@@ -5,28 +5,119 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-- Hello! My name is **Alejandro Marrero Rojas**. I am Cuban and a student of **Telecommunications and Electronics**. Here you will find a little about my professional development and where I am directing my career. If you think something here can be useful to you, feel free to take it. And if you need more information, don't hesitate to contact me.
+Hello! My name is **Alejandro Marrero Rojas**. I am Cuban and a student of **Telecommunications and Electronics**. Here you will find a little about my professional development and where I am directing my career. If you think something here can be useful to you, feel free to take it. And if you need more information, don't hesitate to contact me.
 
 >**I hope that you, who are reading this, just like me, achieve what you hope for, whether professionally or in life itself, and that, with God's help, we can be  proud of our work.**
 
  <p align="right"><strong>A hug. 🫂</strong></p>
 
-## <picture><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="illustration of a computer" width="50px"></picture> Projects
+## 🗺️ My Engineering Learning Roadmap
+
+> From fundamentals to automation, networking and cloud infrastructure — learning by building, breaking and troubleshooting.
+
+```mermaid
+flowchart LR
+
+    A["🐧<br/><b>LINUX</b><br/><br/>Bash • SSH<br/>System Administration"]
+    
+    B["🌐<br/><b>NETWORKING</b><br/><br/>TCP/IP • Routing<br/>Cisco • Wireshark"]
+    
+    C["🐍<br/><b>PROGRAMMING</b><br/><br/>Python • Scripting<br/>APIs • JSON"]
+    
+    D["⚙️<br/><b>AUTOMATION</b><br/><br/>Ansible<br/>Network Automation"]
+    
+    E["🐳<br/><b>INFRASTRUCTURE</b><br/><br/>Docker • Kubernetes<br/>Infrastructure as Code"]
+    
+    F["☁️<br/><b>CLOUD</b><br/><br/>Cloud Infrastructure<br/>DevOps / NetDevOps"]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+
+    A -.-> D
+    B -.-> D
+    C -.-> E
+
+    style A fill:#FCC624,color:#000,stroke:#333,stroke-width:2px
+    style B fill:#0078D7,color:#fff,stroke:#333,stroke-width:2px
+    style C fill:#3670A0,color:#fff,stroke:#333,stroke-width:2px
+    style D fill:#6B4FBB,color:#fff,stroke:#333,stroke-width:2px
+    style E fill:#2496ED,color:#fff,stroke:#333,stroke-width:2px
+    style F fill:#4285F4,color:#fff,stroke:#333,stroke-width:2px
+```
+
+## 🧰 My Tech Stack
+
+<h3 align="center">🖥️ Systems & Networking</h3>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-35%25-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-25%25-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSH-15%25-222222?style=for-the-badge&logo=openssh&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-20%25-0078D7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cisco-15%25-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-15%25-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+</p>
+<p align="right"><img src="https://i.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="30"></p>
+
+<h3 align="center">🐍 Programming & Automation</h3> 
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-20%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-15%25-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-15%25-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/APIs%20%2F%20JSON-5%25-6BA539?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ansible-0%25-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+</p>
+<p align="right"><img src="https://i.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="30"></p>
+
+<h3 align="center">🐳 Infrastructure & Cloud</h3> 
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-0%25-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-0%25-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-0%25-4285F4?style=for-the-badge&logo=icloud&logoColor=white" />
+</p>
+<p align="right"><img src="https://i.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="30"></p>
+
+## <picture><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="illustration of a computer" width="70px"></picture> Projects
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
-| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | |
-| [![Go](https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF)](https://go.dev/) | |
-| [![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF)](https://flask.palletsprojects.com/en/2.1.x/) | |
-| [![FastAPI](https://img.shields.io/static/v1?label=&message=FastAPI&color=009688&logo=FastAPI&logoColor=FFFFFF)](https://fastapi.tiangolo.com/) | |
-| [![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF)](https://www.typescriptlang.org/) | |
-| [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=FFFFFF)](https://javascript.info/) | |
-| [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF)](https://nodejs.org/en/) | |
-| [![Problem solving](https://img.shields.io/static/v1?label=&message=Problem%20solving&color=FFA116&logo=LeetCode&logoColor=FFFFFF)](https://hackattic.com/u/ashleymavericks) | |
-| [![Shell](https://img.shields.io/static/v1?label=&message=Shell&color=4EAA25&logo=GNU%20Bash&logoColor=FFFFFF)](https://www.gnu.org/) | |
+| ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) | |
+| ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)| |
+| ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)| |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
- ## 📚 &nbsp;Currently studying
+## 📊 GitHub Statistics
 
-  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alejandro-telecom&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-telecom&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alejandro-telecom&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alejandro-telecom&theme=github-compact&hide_border=true&area=true" />
+</p>
+
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/alejandro-telecom">
+    <img src="https://img.shields.io/badge/GitHub-alejandro--telecom-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5356815224">
+    <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
