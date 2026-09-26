@@ -111,9 +111,6 @@ flowchart LR
   <a href="https://github.com/alejandro-telecom">
     <img src="https://img.shields.io/badge/GitHub-alejandro--telecom-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://wa.me/5356815224">
-    <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
   <a href="mailto:marrerorojasalejandro@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
