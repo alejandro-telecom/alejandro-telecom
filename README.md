@@ -98,18 +98,12 @@ flowchart LR
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejandro-telecom&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-telecom&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alejandro-telecom&show_icons=true&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alejandro-telecom&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=alejandro-telecom&theme=transparent&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alejandro-telecom&theme=github-compact&hide_border=true&area=true" />
-</p>
-
 
 ## 🌐 Connect with Me
 
